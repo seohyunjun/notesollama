@@ -1,6 +1,10 @@
 {
   "commands": [
     {
+      "name": "Translate selection",
+      "prompt": "Act as a Korean Translator. Translate into Korean. Output only the text and nothing else, do not chat, no preamble, get to the point."
+    },
+    {
       "name": "Summarize selection",
       "prompt": "Act as a writer. Summarize the text in a few sentences highlighting the key takeaways. Output only the text and nothing else, do not chat, no preamble, get to the point."
     },
